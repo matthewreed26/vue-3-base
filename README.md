@@ -45,3 +45,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - [@vue/cli-plugin-e2e-cypress](https://www.npmjs.com/package/@vue/cli-plugin-e2e-cypress)
 
 - [vue-axios](https://www.npmjs.com/package/vue-axios)
+
+- [Fix 'EMFILE: too many open files' error in Jest](https://www.seanmcp.com/articles/fix-emfile-too-many-open-files-error-in-jest/)
