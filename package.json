@@ -8,7 +8,8 @@
     "test:e2e": "vue-cli-service test:e2e",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit --coverage --logHeapUsage --maxWorkers=2 --no-cache",
-    "test:unit:watch": "vue-cli-service test:unit --watch --coverage --logHeapUsage --maxWorkers=2 --no-cache"
+    "test:unit:watch": "vue-cli-service test:unit --watch --coverage --logHeapUsage --maxWorkers=2 --no-cache",
+    "test:unit:clear-cache": "vue-cli-service test:unit --clear-cache"
   },
   "dependencies": {
     "axios": "^0.21.1",
